@@ -24,21 +24,20 @@ offerings:
         - Belton, MO
         - Overland Park, KS
 testimonials:
-  - author: Vaibhav Sharma
+  - author: John Doe
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
-      ligula. 
-  - author: Subarashi San
+      They say a clean space helps facilitate a clear mind. I must say that
+      since hiring SYCS my thoughts have never been more clear!
+  - author: Jane Doe
     quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-      dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
-      elit.
-meta_title: Home | Gatsby Starter Business
+      As a full-time worker, and full-time MOM it's quite easy to fall behind on
+      housework. Thanks to SYCS I now have peace-of-mind that there's someone in
+      my corner to help out when I'm unable to find the time. The Cleantress is
+      AMAZING!
+meta_title: Home | Simply Your Cleaning Service
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Simply Your Cleaning Service is here to provide you with service you deserve.
+  Our quality, professionalism, and courtesy will leave you thoroughly
+  impressed.
 ---
 
