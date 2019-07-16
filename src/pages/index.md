@@ -5,18 +5,13 @@ heading: Enjoy your space again. You deserve it!
 description: Book Simply Your Cleaning Service for ALL of you cleaning needs!
 offerings:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae
-        tincidunt ut,  scelerisque eu sem. Etiam porttitor elit eget mi luctus,
-        vitae blandit enim pretium.  Aenean nec hendrerit leo, a bibendum magna.
-        In hac habitasse platea dictumst.  Suspendisse sapien magna, vestibulum
-        non vehicula id, pellentesque in ante. Nullam  sed auctor tellus. Sed
-        ipsum sem, dapibus nec eros in, feugiat sagittis mi.  Nullam et dui
-        interdum, varius nibh eu, efficitur metus.
+    - image: /img/bucket-303265_640.png
+      text: >-
+        We offer a full range of cleaning services at SYCS. Our cleaning
+        services include floor cleaning (sweeping and mopping), kitchen
+        appliances (refrigerators and stoves), window cleaning, and so much
+        more. Take a look at the full range of of our services, as well as our
+        bundled packages on the Our Service page.
     - image: /img/coffee-gear.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
