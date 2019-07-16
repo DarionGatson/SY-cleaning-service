@@ -1,40 +1,44 @@
 ---
 templateKey: pricing-page
-title: Pricing
-meta_title: Pricing | Gatsby Starter Business
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+title: Our Services
+image: /img/cleaning-3934664_1920.jpg
 pricing:
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta justo justo, 
-    non semper odio cursus in. Curabitur ligula tortor, tristique non odio nec, imperdiet 
-    mattis leo. Vivamus aliquam rhoncus tortor vitae convallis. Aliquam non dui nibh. Nam 
-    a velit at enim sagittis pellentesque.
-  heading: Monthly subscriptions
+    We offer various packages tailored toward you cleaning needs. Whether you
+    just need a quick cleansing of your home, floors at your nightclub serviced,
+    or a in-depth cleaning of your apartment units, we have you covered! See our
+    packages and services below.
+  heading: Cleaning Packages
   plans:
-    - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
+    - description: >-
+        Our basic package will leave your area feeling rejuvenated. This package
+        covers 2 bedrooms, 1 bathroom, a dining area, and the kitchen.
       items:
-        - Lorem ipsum dolor sit amet
-        - consectetur adipiscing elit
-        - Nunc finibus sem a sem ultrices
-      plan: Pro
-      price: '50'
-    - description: Mauris vitae dolor eu mauris malesuada cursus.
+        - Swept Floors
+        - Mopped Floors
+        - Surface Cleaning
+        - Vacuumed Carpet
+        - Interior Window Cleaning
+      plan: Basic
+      price: '85'
+    - description: >-
+        The Deluxe package includes everything in the Basic package plus more!
+        This package covers 2 bedrooms, 2 bathrooms, a dining area, and the
+        kitchen.
       items:
-        - eget sagittis magna tempor
-        - Quisque pulvinar lorem molestie
-        - Proin at sagittis ex
-      plan: Enterprise
-      price: '80'
-    - description: Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus.
-      items:
-        - Pellentesque luctus neque id mauris accumsan
-        - nec imperdiet justo eleifend
-        - Sed eget ornare orci
-      plan: Custom
-      price: '??'
+        - Swept Floors
+        - Mopped Floors
+        - Surface Cleaning
+        - Ceiling Fans
+        - Vacuumed Carpet
+        - Interior Window Cleaning
+        - Cabinet Exteriors
+      plan: Deluxe
+      price: '140'
+meta_title: Our Services | Simply Your Cleaning Service
+meta_description: >-
+  We offer various packages tailored toward you cleaning needs. Whether you just
+  need a quick cleansing of your home, floors at your nightclub serviced, or a
+  in-depth cleaning of your apartment units, we have you covered!
 ---
 
