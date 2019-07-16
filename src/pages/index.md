@@ -5,7 +5,7 @@ heading: Enjoy your space again. You deserve it!
 description: Book Simply Your Cleaning Service for ALL of you cleaning needs!
 offerings:
   blurbs:
-    - image: /img/bucket-303265_640.png
+    - image: /img/cleaning-service-3591146_1920.png
       text: >-
         We offer a full range of cleaning services at SYCS. Our cleaning
         services include floor cleaning (sweeping and mopping), kitchen
