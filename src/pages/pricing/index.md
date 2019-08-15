@@ -60,6 +60,14 @@ pricing:
         - Refrigerator Cleaning
         - Interior Window Cleaning
       plan: Move Out
+    - description: >-
+        Make your floors shine with our Floor Monster package! This package
+        includes 3 standard size rooms.
+      items:
+        - Swept Floors
+        - Mopped Floors
+        - Deep Cleanse
+      plan: Floor Monster
 meta_title: Our Services | Simply Your Cleaning Service
 meta_description: >-
   We offer various packages tailored toward you cleaning needs. Whether you just
