@@ -35,6 +35,19 @@ pricing:
         - Cabinet Exteriors
       plan: Deluxe
       price: '140'
+    - description: >-
+        Go beyond the Deluxe package with a Deep Cleanse. This package includes
+        3 bedrooms, and 3 bathrooms.
+      items:
+        - Wall Washing
+        - Border Cleansing
+        - Tough Surface Cleansing
+        - Interior Window Cleaning
+        - Ceiling Fan Cleaning
+        - Dining Area Cleanup
+        - Kitchen Cleaning
+      plan: Deep Cleanse
+      price: '350'
 meta_title: Our Services | Simply Your Cleaning Service
 meta_description: >-
   We offer various packages tailored toward you cleaning needs. Whether you just
