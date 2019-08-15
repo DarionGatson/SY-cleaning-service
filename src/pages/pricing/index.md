@@ -20,7 +20,7 @@ pricing:
         - Vacuumed Carpet
         - Interior Window Cleaning
       plan: Basic
-      price: '85'
+      price: ''
     - description: >-
         The Deluxe package includes everything in the Basic package plus more!
         This package covers 2 bedrooms, 2 bathrooms, a dining area, and the
@@ -34,7 +34,20 @@ pricing:
         - Interior Window Cleaning
         - Cabinet Exteriors
       plan: Deluxe
-      price: '140'
+      price: ''
+    - description: >-
+        Go beyond the Deluxe package with a Deep Cleanse. This package includes
+        3 bedrooms, and 3 bathrooms.
+      items:
+        - Wall Washing
+        - Border Cleansing
+        - Tough Surface Cleansing
+        - Interior Window Cleaning
+        - Ceiling Fan Cleaning
+        - Dining Area Cleanup
+        - Kitchen Cleaning
+      plan: Deep Cleanse
+      price: ''
 meta_title: Our Services | Simply Your Cleaning Service
 meta_description: >-
   We offer various packages tailored toward you cleaning needs. Whether you just
