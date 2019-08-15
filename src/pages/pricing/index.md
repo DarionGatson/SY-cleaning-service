@@ -48,6 +48,26 @@ pricing:
         - Kitchen Cleaning
       plan: Deep Cleanse
       price: ''
+    - description: >-
+        This package is tailored towards our realtors, and building managers. It
+        includes 2 bedrooms, 1 bathroom, a dining area, and a kitchen.
+      items:
+        - Swept Floors
+        - Mopped Floors
+        - Vacuumed Carpet
+        - Surface Cleaning
+        - Oven Cleaning
+        - Refrigerator Cleaning
+        - Interior Window Cleaning
+      plan: Move Out
+    - description: >-
+        Make your floors shine with our Floor Monster package! This package
+        includes 3 standard size rooms.
+      items:
+        - Swept Floors
+        - Mopped Floors
+        - Deep Cleanse
+      plan: Floor Monster
 meta_title: Our Services | Simply Your Cleaning Service
 meta_description: >-
   We offer various packages tailored toward you cleaning needs. Whether you just
